@@ -1,2 +1,1 @@
-telethon
-requests
+telethon==1.28.5
